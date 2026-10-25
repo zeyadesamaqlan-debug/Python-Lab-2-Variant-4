@@ -1,0 +1,9 @@
+Лабораторная работа №2 — вариант 4
+
+1. Откройте папку в PyCharm / VS Code.
+2. Запустите: python lab2_variant4.py
+3. Введите фамилию автора или нажмите Enter, чтобы пропустить поиск.
+4. Программа сохранит bibliography_variant4.txt, publishers_variant4.txt и top20_variant4.txt.
+
+books-en.csv выбран для библиографических ссылок: в books.csv отсутствует год издания.
+Для определения популярности используется число Downloads.
